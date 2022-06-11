@@ -93,3 +93,91 @@ else:
 titulo = input("Proporcione el título: ")
 autor = input("Proporcione el autor: ")
 print(titulo + " fue escrito por "+ autor)'''
+
+# =====================================CLASE 4 - MIERCOLES-27/04/2022====================================='
+
+'''operandoA = 8
+operandoB = 5
+suma = operandoA + operandoB
+print(f"El resultado de la suma es: {suma}")
+resta = operandoA - operandoB
+print(f"El resultado de la resta es: {resta}")
+multiplicacion = operandoA * operandoB
+print(f"El resultado de la multiplicación es: {multiplicacion}")
+division = operandoA / operandoB
+print(f"El resultado de la división es: {division}")
+division = operandoA // operandoB
+print(f"El resultado de la división (int) es: {division}")
+modulo = operandoA%operandoB
+print(f"El resultado de la división o residuo(modulo) es: {modulo}")
+exponente=operandoA**operandoB
+print(f"El resultado del exponente es: {exponente}")
+
+# Ejercicio 1 de clase
+alto=int(input("Ingrese alto: "))
+ancho=int(input("Ingrese ancho: "))
+
+print("El área es: ", alto*ancho)
+print("El perímetro es: ", (alto+ancho)*2)
+
+miVariable3=10
+print(miVariable3)
+
+# Operadores de reasignación
+miVariable3 = miVariable3 + 1
+print(miVariable3)
+
+miVariable3 += 1
+print(miVariable3)
+
+# miVariable3 = miVariable3 - 2
+miVariable3 -= 2
+print(miVariable3)
+
+# miVariable3 = miVariable3 * 2
+miVariable3 *= 3
+print(miVariable3)
+
+# miVariable3 = miVariable3 / 2
+miVariable3 /= 2
+print(miVariable3)
+
+d = 4
+b = 4 # Cambiar valor para alternar el resultado
+resultado = d == b # Comprobamos si son iguales
+print(resultado)
+
+# Operador diferente
+resultado = d != b
+print(resultado)
+
+# Operador Mayor que
+resultado = d > b
+print(resultado)
+
+# Operador Menor que
+resultado = d < b
+print(resultado)
+
+# Operador menor o igual que
+resultado = d <= b
+print(resultado)
+
+# Operador mayor o igual que
+resultado = d >= b
+print(resultado)
+
+# Ejercicio 2 de clase
+numero = int(input("Ingrese un número "))
+print(f"El residuo de la división es: {numero%2}")
+if numero % 2 == 0:
+    print(f"{numero} es par")
+else:
+    print(f"{numero} es impar")
+
+# Ejercicio 3 de clase
+if numero >= int(input("Ingrese un número: ")) >= 18:
+    print(f"Tienes {numero} eres mayor de edad")
+else:
+    print(f"Tienes {numero} eres menor de edad")'''
+
