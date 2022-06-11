@@ -181,3 +181,110 @@ if numero >= int(input("Ingrese un número: ")) >= 18:
 else:
     print(f"Tienes {numero} eres menor de edad")'''
 
+# =====================================CLASE 5 - MIERCOLES-04/05/2022=====================================
+'''# Operadores lógicos
+
+# Operador and
+a = True
+b = True
+resultado = a and b
+print(resultado)
+
+# Operador or
+resultado = a or b
+print(resultado)
+
+# Operador not
+resultado = not a
+print(resultado)
+
+# Ejercicio 1 de clase -> Operador and
+numero = int(input("Ingrese un número "))
+if numero > 0 and numero < 5: # 0 <= num <=5 || otra forma: num = int(input("Ingrese un numero : "))print(num>=0 and num<=5)
+    print(f"El numero esta dentro del rango")
+else:
+    print(f"El numero esta fuera del rango")
+
+# Ejercicio 2 de clase -> Operadores or y not
+vacaciones = False # alternar valores para variar el resultado
+diaDescanso = False
+if not(vacaciones or diaDescanso):
+    print('Puede asistir al juego')
+else:
+    print('Tiene trabajo que hacer')
+
+# Ejercicio 3 de clase
+edad = int(input("Cuál es su edad? "))
+if (edad >= 20 and edad < 30) or (edad >= 30 and edad < 40):
+    print(f"Esta dentro del rango")
+else:
+    print(f"Esta fuera del rango")
+
+    # Solución 1 clase
+edad = int(input("Digite su edad: "))
+veinte = edad>=20 and edad<30
+print(veinte)
+treinta = edad >= 30 and edad < 30
+print(treinta)
+if veinte or treinta:
+    print('Estas dentro del rango de los (20\'0) a (30\'0) años')
+else:
+    print("No estas dentro del rango de los (20'0) a (30'0) años")
+
+    # Solución 2 clase
+if veinte or treinta:
+    if veinte:
+        print('Esta dentro del rango de los (20\'0) años')
+    elif treinta:
+        print('Esta dentro del rango de los (30\'0) años')
+    else:
+        print('No estas dentro del rango')
+else:
+    print("No estas dentro del rango de los (20'0) a (30'0) años")
+
+    # Soluión 3 clase: sintaxis simplificada
+if (20 <= edad < 30) or (30 <= edad < 40):
+    print(f"Esta dentro del rango")
+else:
+    print(f"Esta fuera del rango")
+
+# Ejercicio 4 de clase
+num1 = int(input("Digite numero 1: "))
+num2 = int(input("Digite numero 2: "))
+
+if(num1 > num2):
+    print(f"El número {num1} es el mayor")
+elif ( num2 > num1 ):
+    print(f"El número {num2} es el mayor")
+
+# Ejercicio 5 clase: Tienda de libros
+print("Ingrese los siguientes datos del libro")
+nombre = input("Nombre del libro: ")
+idLibro = int(input("ID del libro: "))
+precioLibro = int(input("Precio del libro: "))
+envioGratis = input("Envio gratis (S/N): ")
+if (envioGratis == 'S'):
+    envioGratis = True
+elif (envioGratis == 'N'):
+    envioGratis = False
+else:
+    envioGratis = "Dígito inválido"
+
+print(f"Nombre: {nombre}\nID: {idLibro}\nPrecio: ${precioLibro}\nEnvio Gratis: {envioGratis}")
+
+edad = 65
+
+if edad < 18 or edad > 64:
+    print('Tienes descuento')
+
+if-else(and)
+
+if-else(or)
+
+if-else(not)
+
+if-elif-else
+
+if-if-elif-else-else
+
+if(and)(or)(and)'''
