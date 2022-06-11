@@ -58,7 +58,48 @@ public class HolaMundo {
                 System.out.println("usuario2 = " + usuario2);
                 System.out.println("Escriba el titulo: ");
                 var titulo2 = entrada.nextLine();
-                System.out.println("Resultado: "+titulo2+" "usuario2);*/
+                System.out.println("Resultado: "+titulo2+" "usuario2);
 				
+				Scanner entrada = new Scanner(System.in);
+				System.out.println("Proporciona el titulo: ");
+				String titulo = scanner.nextLine();
+				System.out.println("Proporciona el autor: ");
+				String autor = scanner.nextLine();
+				System.out.println(titulo + " fue escrito por " + autor);
+				*/
+				
+				//=====================================CLASE 4 - VIERNES-29/04/2022===================================
+				
+				/*byte numEnteroByte = 127; //byte(129) puede superar el límite
+                System.out.println("numEnteroByte = " + numEnteroByte);
+                System.out.println("Valor mínimo del Byte: "+Byte.MIN_VALUE);
+                System.out.println("Valor máximo del Byte: "+Byte.MAX_VALUE);
+
+                short numEnteroShort = (short)32768;
+                System.out.println("numEnteroShort = " + numEnteroShort);
+                System.out.println("Valor mínimo del Short: "+Short.MIN_VALUE);
+                System.out.println("Valor máximo del Short: "+Short.MAX_VALUE);
+
+                int numEnteroInt= 2147483647;//No puede superar el límmite (int)2147483648, pero agregando una L al final lo pasamos a LONG
+                System.out.println("numEnteroInt= "+numEnteroInt);
+                System.out.println("Valor mínimo del int: "+ Integer.MIN_VALUE);
+                System.out.println("Valor máximo del int: "+ Integer.MAX_VALUE);
+
+                long numEnteroLong = 9223372036854775807L
+                System.out.println("numEnteroLong: "+numEnteroLong);
+                System.out.println("Valor mínimo del long: "+Long.MIN_VALUE);
+                System.out.println("Valor máximo del long: "+Long.MAX_VALUE);
+
+                float numFloat = (float)3.4028236E38D;//también se puede usar (float)10,0;
+                    //numFloat = 3.4028235E38F
+                System.out.println("numFloat = "+numFloat);
+                System.out.println("Valor mínimo de float: "+Float.MIN_VALUE);
+                System.out.println("Valor mánimo de float: "+Float.MAX_VALUE);
+
+                double numDouble = 1.7976931348623158E308D; //Es el número más grande en JAVA
+                     //numDouble = 10;
+                System.out.println("numDouble = "+numDouble);
+                System.out.println("Valor mínimo de double: "+Double.MIN_VALUE);
+                System.out.println("Valor máximo de double: "+Double.MAX_VALUE);*/
 		}
 }
