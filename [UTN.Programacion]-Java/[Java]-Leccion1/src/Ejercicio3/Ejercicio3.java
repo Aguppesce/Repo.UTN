@@ -9,14 +9,12 @@ public class Ejercicio3 {
         //Fórmula: Área = alto*ancho;
         //Fórmula: Perímetro=(alto+ancho)*2;
 
-        
-        int ancho;
         Scanner leer = new Scanner(System.in);
 
         System.out.print("Ingrese alto: ");
-        int alto= Integer.parseInt(leer.nextInt());
+        int alto= Integer.parseInt(leer.nextLine());
         System.out.print("Ingrese ancho: ");
-        int ancho= Integer.parseInt(leer.nextInt());
+        int ancho= Integer.parseInt(leer.nextLine());
         System.out.println("El área es: "+(alto*ancho));
         System.out.println("El perímetro es: "+((alto+ancho)*2));
 

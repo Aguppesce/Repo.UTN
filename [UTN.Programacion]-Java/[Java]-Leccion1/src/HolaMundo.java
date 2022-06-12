@@ -11,8 +11,7 @@ public class HolaMundo {
 				/*System.out.println("Hola mundo!");*/
                 
 				//=====================================CLASE 2 - MIERCOLES-13/04/2022===================================
-				/*
-                System.out.println("Hola mundo desde Java");
+                /*System.out.println("Hola mundo desde Java");
                 int miVariable= 10;
                 System.out.println(miVariable);
                 miVariable=5;
@@ -22,8 +21,7 @@ public class HolaMundo {
                 String miVariableCadena = "Bienvenidos";
                 System.out.println(miVariableCadena);
                 miVariableCadena = "Sigamos creciendo en programación";
-                System.out.println(miVariableCadena);
-				*/				
+                System.out.println(miVariableCadena);*/
 				
 				//=====================================CLASE 3 - VIERNES-22/04/2022===================================
 				//Var - inferencia de tipos en Java
@@ -69,7 +67,6 @@ public class HolaMundo {
 				*/
 				
 				//=====================================CLASE 4 - VIERNES-29/04/2022===================================
-				
 				/*byte numEnteroByte = 127; //byte(129) puede superar el límite
                 System.out.println("numEnteroByte = " + numEnteroByte);
                 System.out.println("Valor mínimo del Byte: "+Byte.MIN_VALUE);

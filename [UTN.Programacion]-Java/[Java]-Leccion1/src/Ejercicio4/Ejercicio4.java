@@ -10,9 +10,9 @@ public class Ejercicio4 {
         Scanner leer = new Scanner(System.in);
 
         System.out.print("Ingrese número 1:");
-        int num1=Integer.parseInt(leer.nextInt());
+        int num1=Integer.parseInt(leer.nextLine());
         System.out.print("Ingrese número 2:");
-        int num2=Integer.parseInt(leer.nextInt());
+        int num2=Integer.parseInt(leer.nextLine());
 
         var resultado = (num1>num2) ? "Número 1 es el mayor" : "Número 2 es el mayor";
         System.out.println(resultado);
