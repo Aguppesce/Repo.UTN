@@ -135,7 +135,7 @@ public class HolaMundo {
                 int caracterChar = 'b';
                 System.out.println("caracterChar = " + caracterChar);*/
 				
-				//=========================VIERNES-13/05/2022=========================*/
+				//=========================CLASE 6 - VIERNES-13/05/2022=========================*/
                 //Tipos primitivos tipos booleanos
                 /*boolean varBool = true;
                 System.out.println("varBool = " + varBool);
@@ -185,5 +185,46 @@ public class HolaMundo {
                 //Para saber que tipo de variable es
                 /*var a = 0;
                 System.out.println("La variable a es de tipo: " + (((Object)a).getClass().getSimpleName()));*/
+				
+				//=========================CLASE 7 - VIERNES-20/05/2022=========================*/
+                /*int num1 = 5, num2 = 4;
+                var solucion = num1 + num2;
+                System.out.println("solucion de la suma = " + solucion);
+
+                solucion = num1 - num2;
+                System.out.println("solucion de la resta = " + solucion);
+
+                solucion = num1 * num2;
+                System.out.println("solucion de la multiplicación = " + solucion);
+
+                solucion = num1 / num2;
+                System.out.println("solucion de la división = " + solucion);
+
+                var solucion2 =  3.4 / num2;
+                System.out.println("solución2 resultado de la división = " + solucion2);
+
+                solucion = num1 % num2; //Guarda el residuo entero de la división
+                System.out.println("solución = " + solucion);// 5/4
+
+                if(num1 % 2 == 0)
+                        System.out.println("Es un número Par");
+                else
+                        System.out.println("Es un número Impar");
+                
+                int varNum1 = 1, varNum2 = 4;
+                int varNum3 = varNum1 + 6 - varNum2; //Una operación
+                System.out.println("varNum3 = " + varNum3);
+
+                varNum1 += 1;
+                System.out.println("varNum1 = " + varNum1);
+                varNum2 -= 2;
+                System.out.println("varNum2 = " + varNum2);
+                varNum1 *= 5;
+                System.out.println("varNum1 = " + varNum1);
+                varNum3 /= 4;
+				System.out.println("varNum3 = " + varNum3);
+                varNum1 %= 6;
+                System.out.println("varNum1 = " + varNum1);*/
+				
 		}
 }

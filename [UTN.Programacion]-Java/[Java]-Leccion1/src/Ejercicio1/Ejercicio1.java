@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
-
+		//=========================CLASE 7 - VIERNES-20/05/2022=========================*/
         Scanner leer = new Scanner(System.in);
         String nombreLibro;
         long idLibro;
