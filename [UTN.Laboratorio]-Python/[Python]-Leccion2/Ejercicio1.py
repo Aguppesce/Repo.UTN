@@ -1,7 +1,7 @@
-#===================================CLASE 6 - MIERCOLES-11/05/2022===================================
+# ===================================CLASE 6 - MIERCOLES-11/05/2022===================================
+# EJERCICIO 1
 
 import math
-
 '''
 # Ejercicio 1:
 # Deberemos plasmar la expresión en una expresión
