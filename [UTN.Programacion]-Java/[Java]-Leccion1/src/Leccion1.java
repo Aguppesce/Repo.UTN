@@ -1,11 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
-
-public class HolaMundo {
+public class Leccion1 {
         public static void main(String[] args) {
 				//=====================================CLASE 1 - VIERNES-08/04/2022=====================================
 				/*System.out.println("Hola mundo!");*/
@@ -317,7 +310,7 @@ public class HolaMundo {
 
                 var numeroT = 7;
                 resultadoT = (numeroT % 2 == 0) ? "Es par" : "Es impar";
-                System.out.println("resultadoT = " + resultadoT);*/
+                System.out.println("resultadoT = " + resultadoT);
 
                 var x = 5;
                 var y = 10;
@@ -330,6 +323,12 @@ public class HolaMundo {
                 System.out.println("solucionAritmetica = " + solucionAritmetica);
 
                 solucionAritmetica = (4 + 5) * 6 / 3;
-                System.out.println("solucionAritmetica = " + solucionAritmetica);
+                System.out.println("solucionAritmetica = " + solucionAritmetica);*/
+
+                //=========================CLASE 9 - VIERNES-03/06/2022=========================*/
+                //EJERCICIOS: 5,6 Y 7
+
+            //=========================CLASE 10 - VIERNES-27/05/2022=========================*/
+
 		}
 }
