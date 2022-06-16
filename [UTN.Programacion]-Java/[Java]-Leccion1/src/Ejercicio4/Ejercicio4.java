@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
-
-		//=========================CLASE 8 - VIERNES-27/05/2022=========================*/
-        
+		/**============CLASE 8 - VIERNES-27/05/2022============*/
+        //EJERCICIO 4
+        //El mayor de dos números (Operador ternario)
         Scanner leer = new Scanner(System.in);
 
         System.out.print("Ingrese número 1:");

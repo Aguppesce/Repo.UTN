@@ -1,9 +1,11 @@
-# =====================================CLASE 1 - MIERCOLES-06/04/2022=====================================
+# ===============CLASE 1 - MIERCOLES-06/04/2022===============
+# SALUDO DESDE PYTHON
 
 '''print("Hola Mundo")'''
 
-# =====================================CLASE 2 - MIERCOLES-13/04/2022=====================================
+# ===============CLASE 2 - MIERCOLES-13/04/2022===============
 # VARIABLES EN PYTHON
+
 '''miVariable = 3
 print(miVariable)
 miVariable = "Hola a todos los alumnos de la tecnicatura"
@@ -21,8 +23,7 @@ print(id(x)) # Para ver la dirección de memoria
 print(id(y))
 print(id(z))'''
 
-# =====================================CLASE 3 - MIERCOLES-20/04/2022=====================================
-
+# ===============CLASE 3 - MIERCOLES-20/04/2022===============
 # TIPOS DE DATOS
 
 '''a = False # Esta es una variable literal de tipo booleana
@@ -99,10 +100,9 @@ titulo = input("Proporcione el título: ")
 autor = input("Proporcione el autor: ")
 print(titulo + " fue escrito por "+ autor)'''
 
-# =====================================CLASE 4 - MIERCOLES-27/04/2022=====================================
-# OPERADORES EN PYTHON PARTE 1
-
+# ===============CLASE 4 - MIERCOLES-27/04/2022===============
 # OPERADORES ARTIMÉTICOS
+
 '''operandoA = 8
 operandoB = 5
 suma = operandoA + operandoB
@@ -190,8 +190,7 @@ if numero >= int(input("Ingrese un número: ")) >= 18:
 else:
     print(f"Tienes {numero} eres menor de edad")'''
 
-# =====================================CLASE 5 - MIERCOLES-04/05/2022=====================================
-
+# ===============CLASE 5 - MIERCOLES-04/05/2022===============
 # OPERADORES LÓGICOS
 
 ''' # Operador and
@@ -293,3 +292,4 @@ if-else(not)
 if-elif-else
 if-if-elif-else-else
 if(and)(or)(and)'''
+

@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
-        //=========================CLASE 10 - VIERNES-10/06/2022=========================*/
+        /**============CLASE 10 - VIERNES-10/06/2022============*/
+        //EJERCICIO: CÁLCULO DE LAS ESTACIONES DEL AÑO CON IF-ELSE
+
         Scanner leer = new Scanner(System.in);
         System.out.println("Digite un mes del año: ");
         var mes = Integer.parseInt(leer.nextLine());

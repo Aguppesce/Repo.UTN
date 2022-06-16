@@ -2,44 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8e7a61-ce53-4242-97c6-0d6a13bb16a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/[Java]-Leccion1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/[Java]-Leccion2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio1/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio2/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio3/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/Ejercicio1/Ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/Ejercicio2/Ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/Ejercicio3/Ejercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/Ejercicio4/Ejercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/Ejercicio5/Ejercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/Ejercicio6/Ejercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/Ejercicio7/Ejercicio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/[UTN.Programacion]-Ejercicios.en.Java/HolaMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leccion1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[UTN.Programacion]-Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/[UTN.Programacion]-Java/Ejercicio1/Ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/[UTN.Programacion]-Java/Ejercicio2/Ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/[UTN.Programacion]-Java/Ejercicio3/Ejercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/[UTN.Programacion]-Java/Ejercicio4/Ejercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/[UTN.Programacion]-Java/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion1/Leccion1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion1/Leccion1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Leccion2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Leccion2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion3/Leccion3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion3/Leccion3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio3/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio4/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio4/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio5/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio5/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio6/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio6/Ejercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio7/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio7/Ejercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leccion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leccion1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio1/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio2/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio2/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio3/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/Leccion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/Leccion2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +102,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Leccion1">
+    <configuration name="Leccion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leccion1" />
+      <module name="[Java]-Leccion1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="[Java]-Leccion1" />
@@ -128,6 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Leccion1" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

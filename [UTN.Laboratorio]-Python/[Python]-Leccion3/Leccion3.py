@@ -1,7 +1,7 @@
-# =====================================CLASE 8 - MIERCOLES-01/06/2022=====================================
+# ===============CLASE 8 - MIERCOLES-01/06/2022===============
+# CICLO WHILE (MIENTRAS O DURANTE)
 
-'''#CICLO WHILE (MIENTRAS O DURANTE)
-contador = 0
+'''contador = 0
 while contador < 78:
     print('Ejecutando nuestro ciclo while ', contador)
     contador += 1
@@ -39,6 +39,7 @@ for letra in 'Alemania':
         print('Fin del ciclo for')'''
 
 # PALABRA RESERVADA CONTINUE
+
 for i in range (6):
     if i % 2 == 0:
         print(f'Valor: {i}')

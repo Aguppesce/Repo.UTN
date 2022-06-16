@@ -1,5 +1,5 @@
-# =====================================CLASE 7 - MIERCOLES-01/06/2022=====================================
-# Ejercicio 3: Calcular estación del año
+# ===============CLASE 7 - MIERCOLES-01/06/2022===============
+# EJERCICIO 3: Calcular estación del año
 
 mes = int(input("Ingrese un mes del año: "))
 

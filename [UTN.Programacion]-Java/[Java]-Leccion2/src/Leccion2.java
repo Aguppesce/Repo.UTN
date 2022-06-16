@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Leccion2 {
     public static void main(String[] args) {
-        //=========================CLASE 10 - VIERNES-10/06/2022=========================*/
+        /**============CLASE 10 - VIERNES-10/06/2022============*/
+        //SENTENCIA DE CONTROL IF/ELSE
         /*var condicion = true;
         if(condicion){
             System.out.println("Condición Verdadera");//Condicional simple
@@ -11,6 +12,7 @@ public class Leccion2 {
             System.out.println("Condición False");//Condicional doble
         }*/
 
+        //EJERCICIO CON LA ESTRUCTURA IF-ELSE
         /*var numero = 2;
         var numeroTexto = "Número desconocido";
         if(numero == 1){
@@ -30,11 +32,12 @@ public class Leccion2 {
         }
         System.out.println("numeroTexto = " + numeroTexto);*/
 
-        Scanner leer = new Scanner(System.in);
+        //SENTENCIA DE CONTROL SWITCH
+        /*Scanner leer = new Scanner(System.in);
         System.out.println("Digite un número del 1 al 4: ");
         var numero = Integer.parseInt(leer.nextLine());
         var numeroTexto = "Valor desconocido";
-        switch (numero){
+        switch (numero) {
             case 1:
                 numeroTexto = "Número uno";
                 break;
@@ -49,6 +52,6 @@ public class Leccion2 {
                 break;
             default:
                 numeroTexto = "Caso no encontrado";
-        }
+        }*/
     }
 }

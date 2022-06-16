@@ -1,6 +1,5 @@
-# =====================================CLASE 7 - MIERCOLES-01/06/2022=====================================
-
-#Ejercicio 5: Sistema de calificaciones
+# ===============CLASE 7 - MIERCOLES-01/06/2022===============
+# EJERCICIO 5: Sistema de calificaciones
 
 nota = int(input('Ingrese calificación: '))
 califcacion = None

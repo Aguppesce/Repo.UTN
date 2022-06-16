@@ -1,5 +1,4 @@
-# ===================================CLASE 6 - MIERCOLES-11/05/2022===================================
-
+# ===============CLASE 6 - MIERCOLES-11/05/2022===============
 # SENTENCIAS DE CONTROL: SENTENCIA IF/ELSE + EJECUCIÓN DEBUG EN IF/ELSE
 
 condicion = True
@@ -24,6 +23,7 @@ else:
 print(f'El número ingresado es: {num} - {numTexto}')
 
 # SINTAXIS SIMPLIFICADA (OPERADOR TERNARIO). Solo se recomienda usar si el código es muy pequeño, si hubise más lineas de código no es recomendable. En la sintaxis simplificada solo se utiliza el IF/ELSE (no se debe utilizar el ELIF)
+
 condicion = False
 if condicion:
     print('Condición Verdadera')
@@ -31,5 +31,5 @@ else:
     print('Condición Falsa')
 print('Condicion Verdadera') if condicion else print('Condicion Falsa')
 
-# =====================================CLASE 7 - MIERCOLES-01/06/2022=====================================
+# ===============CLASE 7 - MIERCOLES-01/06/2022===============
 # EJERCICIOS: 5,6 Y 7
