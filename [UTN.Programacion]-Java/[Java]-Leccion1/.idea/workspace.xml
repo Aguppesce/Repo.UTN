@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8e7a61-ce53-4242-97c6-0d6a13bb16a9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion1/Leccion1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion1/Leccion1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Ejercicio7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Leccion2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion2/Leccion2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion3/Leccion3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion3/Leccion3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion3/Ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion3/Ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../[UTN.Laboratorio]-Python/[Python]-Leccion3/Ejercicio3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio3/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio4/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio4/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio5/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio5/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio6/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio6/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio7/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio7/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leccion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leccion1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio1/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio2/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio2/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/CondicionalEjercicio3/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[Java]-Leccion2/src/Leccion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../[Java]-Leccion2/src/Leccion2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
