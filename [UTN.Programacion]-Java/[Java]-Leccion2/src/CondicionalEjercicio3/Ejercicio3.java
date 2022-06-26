@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Ejercicio3 {
     public static void main(String[] args) {
         /**============CLASE 10 - VIERNES-10/06/2022============*/
-        //EJERCICIO: SISTEMA DE CALIFICACIONES CON IF-ELSE
+        //EJERCICIO 1: SISTEMA DE CALIFICACIONES CON IF-ELSE
         Scanner leer = new Scanner(System.in);
         System.out.println("Digite un número entre 0 y 10: ");
         var calificacion = Integer.parseInt(leer.nextLine());
@@ -21,7 +21,7 @@ public class Ejercicio3 {
         } else {
             System.out.println("Fuera de rango");
         }
-        //EJERCICIO: SISTEMA DE CALIFICACIONES CON SWITCH
+        //EJERCICIO 1: SISTEMA DE CALIFICACIONES CON SWITCH
         System.out.println("Digite un número entre 0 y 10: ");
         calificacion = Integer.parseInt(leer.nextLine());
         switch (calificacion) {
