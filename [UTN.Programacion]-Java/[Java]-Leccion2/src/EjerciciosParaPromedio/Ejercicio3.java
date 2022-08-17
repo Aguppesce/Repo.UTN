@@ -9,6 +9,7 @@ public class Ejercicio3 {
         //primero es mayor que el segundo que los reste y si no que los sume.
 
         Scanner leer = new Scanner(System.in);
+
         System.out.print("Ingrese un número: ");
         int num1 = Integer.parseInt(leer.nextLine());
         System.out.print("Ingrese otro número: ");
@@ -19,7 +20,7 @@ public class Ejercicio3 {
         }else if( num1 > num2){
             System.out.println("Resta: "+(num1-num2));
         }else{
-            System.out.println("Suma: "+(num1-num2));
+            System.out.println("Suma: "+(num1+num2));
         }
     }
 }
