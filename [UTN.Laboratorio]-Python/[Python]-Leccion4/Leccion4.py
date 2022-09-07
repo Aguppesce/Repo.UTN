@@ -1,4 +1,4 @@
-# ===============CLASE 1 - MARTES-16/08/2022===============
+# ===============CLASE 01 - MARTES-16/08/2022===============
 # COLECCIONES-LISTAS: Listas corresponden a "Colecciones" en Python. Las listas es lo que se conoce en otros lenguajes como arreglos o vectores
 
 # lista = Ariel, Liliana, Natalia, Osvaldo
@@ -99,7 +99,7 @@ print('\n', cocina)
 
 # "del cocina" #esto es para eliminar la tupla
 
-# ===============CLASE 2 - MARTES-23/08/2022===============
+# ===============CLASE 02 - MARTES-23/08/2022===============
 # COLECCIONES-CONJUNTOS PARTE 2
 
 # Tipo set
@@ -233,7 +233,7 @@ print(4 in tupla)  # Acción booleana, su respuesta es de tipo booleana
 # Lo que podemos usar dentor de tuplas son: index, count, len
 # En tuplas se puede convertir de tupla a lista y de lista a tupla
 
-# ===============CLASE 3 - MARTES-30/08/2022===============
+# ===============CLASE 03 - MARTES-30/08/2022===============
 # COLECCIONES-CONJUNTOS PARTE 3
 
 # Repaso de set o conjunto
@@ -366,3 +366,8 @@ print(cola)
 seRetira = cola.pop(0)
 print(f'Atendido el cliente: {seRetira}')
 print(cola)
+
+# ===============CLASE 04 - MARTES-06/09/2022===============
+
+for i in seleccionArgentina:
+    print(f"{i} -> {seleccionArgentina[i]}")
