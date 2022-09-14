@@ -7,6 +7,8 @@
 # 3 lista de palabras que aparecen en la segunda lista, pero no en la primera
 # 4 lista de palabras que aparecen en ambas listas
 
+# SOLUCIÓN CLASE
+
 lista1 = [1, 2, 3, 4, 5, 4, 3, 2, 2, 1, 5]
 lista2 = [4, 5, 6, 7, 8, 4, 5, 6, 7, 7, 8]
 

@@ -2,7 +2,7 @@
 # Ejercicio 02: Modificar los elementos de una lista
 # Llenar una lista con los números del 1 al 10, luego modificar los elementos de la lista multiplicandolos por un valor ingresado por el usuario
 
-# Solucion 1
+
 lista = []
 numero = int(input("Digite un número: "))
 
@@ -11,12 +11,12 @@ for i in range(0, 10 + 1):
 for i in range(0, 10 + 1):
     print(f"{numero}*{i}={lista[i]}")
 
-# Solución 2
+# OTRA SOLUCIÓN
 print(f"La tabla de multiplicar del {numero} es: ")
 for i in range(0, 10 + 1):
     print(f"{numero}*{i}={numero*i}")
 
-# Solución Clase
+# SOLUCIÓN CLASE
 lista = list(range(1,11))
 print("Lista Original")
 for i in lista:

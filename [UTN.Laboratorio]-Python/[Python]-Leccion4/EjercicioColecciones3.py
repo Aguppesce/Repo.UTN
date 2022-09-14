@@ -15,6 +15,8 @@
 # Clase: Arquero
 # Raza: Elfo Sindar
 
+# SOLUCIÓN CLASE
+
 personajes = [] # Creamos una lista
 
 # Creamos diccionarios

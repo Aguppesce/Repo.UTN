@@ -7,7 +7,7 @@ for i in range(0, 50 + 1):
     lista.append(i)
 print(lista)
 
-# Solución 1 en Clase
+# SOLUCIÓN CLASE
 while i <= 50:
     lista.append(i)
     i += 1

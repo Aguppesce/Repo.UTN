@@ -14,3 +14,11 @@ lista = list(conjunto) # Se convierte el conjunto a lista
 # print(set[1,1,2,2]) # Otro método en una sola línea
 
 print(lista)
+
+
+# SOLUCIÓN CLASE
+lsita = [1,2,3,"Ariel",7,7,3,"Alberto",1,"Ariel",2,"Alberto"]
+# conjunto = set(lista) # Convertimos la lista a un conjunto de tipo set
+# lista = lista(conjunto) # Convertimos el conjunto a una lista
+lista = list(set(lista)) # La conversión hecha en una sola línea de código (eficiente)
+print(lista)
