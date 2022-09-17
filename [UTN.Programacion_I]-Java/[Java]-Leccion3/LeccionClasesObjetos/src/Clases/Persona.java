@@ -9,4 +9,13 @@ public class Persona {
     String nombre;
     String apellido;
 
+    /*============CLASE 04 - VIERNES-16/09/2022============*/
+    //Métodos de la clase (Acciones)
+    public void obtenerInformacion() {
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Apellido: " + apellido);
+    }
+
+
+
 }
