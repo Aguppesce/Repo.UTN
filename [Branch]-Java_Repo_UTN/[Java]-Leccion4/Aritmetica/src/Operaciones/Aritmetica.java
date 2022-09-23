@@ -15,6 +15,4 @@ public class Aritmetica {
         int resultado = a + b;
         System.out.println("resultado = " + resultado);
     }
-
-
 }
