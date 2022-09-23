@@ -1,4 +1,4 @@
-/* ===============CLASE 02 - MARTES-20/09/2022=============== */
+/* ==============CLASE 02 - MARTES-20/09/2022============== */
 
 var nombre = "Ariel";
 nombre = "Alberto\nAriel\n"
