@@ -5,13 +5,12 @@ import java.util.Scanner;
 /**
  * @author Aguppesce
  */
+//PROGRAMACIÓN_II
+/*============CLASE 04 - VIERNES-16/09/2022============*/
+//Ejercicio 07 con Scanner: Pedir números hasta que se introduzca uno negativo calcular la media.
 public class Ciclos07 {
-    //PROGRAMACIÓN_II
-    /*============CLASE 04 - VIERNES-16/09/2022============*/
-    //Ejercicio 07: Pedir números hasta que se introduzca uno negativo calcular la media.
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
-
         double media = 0.0000D;
         boolean bandera = false;
         Integer numero = 0, contador = 0, acumulador = 0;

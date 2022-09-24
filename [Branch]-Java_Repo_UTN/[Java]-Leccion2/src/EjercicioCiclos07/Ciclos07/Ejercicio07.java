@@ -1,14 +1,14 @@
-package Ejercicio07;
+package EjercicioCiclos07.Ciclos07;
 
 import javax.swing.*;
 
 /**
  * @author Aguppesce
  */
+//PROGRAMACIÓN_II
+/*============CLASE 04 - VIERNES-16/09/2022============*/
+//Ejercicio 07 con JOptionPane: Pedir números hasta que se introduzca uno negativo calcular la media.
 public class Ejercicio07 {
-    //PROGRAMACIÓN_II
-    /*============CLASE 04 - VIERNES-16/09/2022============*/
-    //Ejercicio 07: Pedir números hasta que se introduzca uno negativo calcular la media.
     public static void main(String[] args) {
         double media = 0;
         boolean bandera = false;
@@ -27,8 +27,9 @@ public class Ejercicio07 {
 
 }
 
-//SOLUCIÓN CLASE
+
 /*
+//SOLUCIÓN CLASE
 public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int numero = 0, conteo = 0, suma = 0;
