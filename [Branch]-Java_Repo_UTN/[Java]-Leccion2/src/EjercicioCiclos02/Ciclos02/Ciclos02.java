@@ -2,27 +2,23 @@ package EjercicioCiclos02.Ciclos02;
 
 import javax.swing.*;
 import java.util.Scanner;
-
+//PROGRAMACION_II
+/*============CLASE 2 - VIERNES-01/09/2022============*/
+/*Ejercicio 02 con Scanner: Leer un número e indicar si es positivo o negativo. El proceso se repetira hasta que se introduzca un 0*/
 public class Ciclos02 {
-    //PROGRAMACION_II
-
-    /*============CLASE 2 - VIERNES-01/09/2022============*/
-
-    /*Ejercicio 02: Leer un número e indicar si es positivo o negativo. El proceso se repetira hasta que se introduzca un 0*/
-    //CON JOptionPane
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-
-
-        var numero = Integer.parseInt(JOptionPane.showInputDialog("Digite un número: "));
+        System.out.print("Ingrese un número: ");
+        var numero = Integer.parseInt(entrada.nextLine());
         while (numero != 0) {
             if (numero > 0) {
-                JOptionPane.showMessageDialog(null,"El número: "+numero+" es POSITIVO");
-            }else{
-                JOptionPane.showMessageDialog(null,"El número: "+numero+" es NEGATIVO");
+                System.out.print("El número " + numero + " es POSITIVO");
+            } else {
+                System.out.print("El número " + numero + "es NEGATIVO");
             }
-            numero = Integer.parseInt(JOptionPane.showInputDialog("Digite un número: "));
+            System.out.print("Ingrese un número: ");
+            numero = Integer.parseInt(entrada.nextLine());
         }
-        JOptionPane.showMessageDialog(null,"El número " + numero + " finaliza el programa");
+        System.out.println("El número " + numero + " finaliza el programa");
     }
 }
