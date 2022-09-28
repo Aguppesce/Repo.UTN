@@ -84,3 +84,48 @@ def listarNombres(*nombres): # Normlamente se utiliza: *args
         print(nombre)
 listarNombres("Lucas","José","Claudia","Rosa","María")
 listarNombres("Marcos","Daniel","Romina","Pepe","Marcela","Carlos")
+
+# ===============CLASE 07 - MARTES-27/09/2022===============
+
+def listarTerminos(**terminos): # Los más utilizado es **kwargs para recibir argumentos
+    for llave, valor in terminos.items():
+        print(f"{llave} : {valor}")
+
+listarTerminos() # Si pasamos una función vacía, no muestra nada ya que no le hemos pasado ningún argumento
+listarTerminos(IDE='Integrated Development Enviroment', PK='Primary Key')
+# listarTerminos(10='Leonel Messi') # La key tiene que ser un String, ya que no permite
+listarTerminos(Nombre='Leonel Messi')
+
+def desplegarNombres(nombres):
+    for nombre in nombres:
+        print(nombre)
+
+nombres2 = ["Tito","Pedro","Carlos"]
+desplegarNombres(nombres2) # Muestra
+desplegarNombres("Carla") # Muestra cada elemento por separado, es decir (C, a , r...)
+# desplegarNombres(10,11) # Devolverá un error diciendo que no son objetos iterables
+
+desplegarNombres((10,11)) # Al ser una tupla, cuando tenemos dos parentesís (()) estamos convirtiendolo a una tupla lo cual nos permite recorrerla con la función
+
+desplegarNombres([22,55]) # Al ser una lista ( con corchetes [] estamos convirtiendolo a una lista, esto permite que la función funcione)
+
+# Funciones Recursivas
+def factorial(numero): #Para una función recursiva se necesitan dos faces: caso base y caso recursivo
+    if numero == 1: # Caso base
+        return 1
+    else:
+        return numero * factorial(numero-1) # Caso recursivo
+
+resultado = factorial(5) #Lo hacemos en código duro
+print(f"El factorial del número 5 es: {resultado}")
+
+# Como tarea: hacer que el usuario ingrese el número para calcular el factorial
+
+def factorial(numero):
+    if numero == 1: # Caso base
+        return 1
+    else:
+        return numero * factorial(numero-1) # Caso recursivo
+numeroFactorial = int(input("Digite el número para calcular el factorial: "))
+resultado = factorial(numeroFactorial)
+print(f"El factorial del número 5 es: {numeroFactorial} es : {resultado}")
