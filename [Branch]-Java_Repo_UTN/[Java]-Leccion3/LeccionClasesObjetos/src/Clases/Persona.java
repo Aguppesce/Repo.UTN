@@ -6,8 +6,8 @@ public class Persona {
     /*============CLASE 03 - VIERNES-09/09/2022============*/
 
     //Atributos de la clase(Caracterísitcas)
-    String nombre;
-    String apellido;
+    public String nombre;
+    public String apellido;
 
     /*============CLASE 04 - VIERNES-16/09/2022============*/
     //Métodos de la clase (Acciones)

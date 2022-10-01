@@ -6,7 +6,7 @@ import java.util.Scanner;
  */
 //PROGRAMACIÓN_II
 /*============CLASE 04 - VIERNES-16/09/2022============*/
-//Ejercicio 06: Pedir números hasta que se teclee un 0, mostrar la suma de todos los números introducidos.
+//Ejercicio 06 con Scanner: Pedir números hasta que se teclee un 0, mostrar la suma de todos los números introducidos.
 public class Ciclos06 {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
