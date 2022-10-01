@@ -13,10 +13,24 @@ public class Ciclos10 {
         Scanner leer = new Scanner(System.in);
         int numero,acumulador=0;
         for(int i = 0; i < 10; i++){
-            System.out.print("Ingrese número "+(i+1)+": ");
+            System.out.print("Ingrese número para la posición "+(i+1)+": ");
             numero = leer.nextInt();
             acumulador += numero;
         }
         System.out.println("Suma de los números ingresados: " + acumulador);
     }
 }
+
+//SOLUCIÓN CLASE
+    /*public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+
+        int numero, suma = 0;
+        for(int i = 1; i <=10; i++){
+            System.out.println("Digite un número");
+            numero = Integer.parseInt(entrada.nextLine());
+            suma += numero;
+        }
+        System.out.println("\nLa suma de todos los números es: "+suma);
+    }*/
+
