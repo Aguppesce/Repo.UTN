@@ -38,7 +38,7 @@ print(f"El objeto1 modificado de la clase persona: {persona1.nombre} {persona1.a
 persona1.mostrar_detalle()
 persona2.mostrar_detalle()
 
-# ===============CLASE 09 - MARTES-11/09/2022===============
+# ===============CLASE 09 - MARTES-11/10/2022===============
 
 # Persona.mostrar_detalle(persona1) # Debemos pasarle una referencia para el self o dará error
 persona1.telefono = "44445555289"
