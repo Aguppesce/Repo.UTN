@@ -12,7 +12,7 @@ public class Persona {
     private boolean eliminado;
 
     //Constructor
-    public Persona(String nombre, double sueldo, boolean eliminado){
+    public Persona(String nombre, double sueldo, boolean eliminado) {
         this.nombre = nombre;
         this.sueldo = sueldo;
         this.eliminado = eliminado;
@@ -42,6 +42,10 @@ public class Persona {
         this.eliminado = eliminado;
     }
 
-
-
+    /*============CLASE 08 - VIERNES-21/10/2022============*/
+    public String toString(){//Convierte en una cadena cada atributo
+        return "Persona [nombre: " + this.nombre +
+                ", sueldo: " + this.sueldo +
+                ", eliminado: " + this.eliminado + "]";
+    }
 }
