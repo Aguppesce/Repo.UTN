@@ -1,0 +1,12 @@
+# ===============CLASE 11 - MARTES-25/10/2022===============
+
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>190</x><y>220</y><w>100</w><h>30</h></coordinates><panel_attributes>Persona</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>190</x><y>360</y><w>100</w><h>30</h></coordinates><panel_attributes>Empleado</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>240</y><w>90</w><h>140</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>360</x><y>220</y><w>100</w><h>30</h></coordinates><panel_attributes>Object</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>390</x><y>240</y><w>90</w><h>140</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>360</x><y>360</y><w>100</w><h>30</h></coordinates><panel_attributes>Persona</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>360</x><y>500</y><w>100</w><h>30</h></coordinates><panel_attributes>Empleado</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>390</x><y>380</y><w>90</w><h>140</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>190</x><y>470</y><w>110</w><h>80</h></coordinates><panel_attributes>&lt;&lt;Persona&gt;&gt;
+--
+-nombre
+-edad</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>190</x><y>610</y><w>110</w><h>80</h></coordinates><panel_attributes>&lt;&lt;Empleado&gt;&gt;
+--
+-sueldo</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>540</y><w>90</w><h>90</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;70;10;10</additional_attributes></element></diagram>
