@@ -58,3 +58,8 @@ Operadores Relacionales(Boolean)
     >
     <=
     >=
+
+//======================= CLASE 08 - MARTES-01/11/2022=======================
+Operadores Lógicos
+    And -> && Doble aspersan
+    Or -> || 
