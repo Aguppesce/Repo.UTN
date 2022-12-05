@@ -6,6 +6,7 @@ import java.util.Scanner;
  * @author Aguppesce
  */
 /*============CLASE 12 - VIERNES-18/11/2022============*/
+//Ejerccio 4: Crear una matriz de tamaño 7x7 y rellenarla de forma que los elementos de la diagonal principal sean 1 y el resto 0.
 public class Matriz_Ejercicio_4 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);

@@ -6,6 +6,7 @@ import java.util.Scanner;
  * @author Aguppesce
  */
 /*============CLASE 12 - VIERNES-18/11/2022============*/
+//Ejercicio 3: Crear y cargar una amtriz de tamaño 3x3, transponerla y mostrarla.
 public class Matriz_Ejercicio_3 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
